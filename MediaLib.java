@@ -9,7 +9,6 @@ public class MediaLib
   private static int numMovies=0;
   private static int numSongs=0;
 
-
   public void addBook(Book b)
   {
     if (book==null){
